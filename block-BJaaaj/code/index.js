@@ -33,9 +33,9 @@ console.log(fullName);
 let name = "Oly Rajak";
 let newuser = name;
 let isAdmin = true;
-alert(name);
-alert(newuser);
-alert(isAdmin);
+alert(name); // Oly Rajak
+alert(newuser); // Oly Rajak
+alert(isAdmin); // true
 
 
 // Assignment and re-assignment
@@ -49,18 +49,18 @@ var wiseMan = "Tyrion Lannister";
 // Declare a variable `userName` with value "Lysa Arryn"
 // Declare a variable named `oddNumber` and assign a value `57`.
 // Reassign the value of `oddNumber` to 61
-console.log(wiseMan);
+console.log(wiseMan);  // Tyrion Lannister
 wiseMan = "Samwell Tarly";
-console.log(wiseMan);
+console.log(wiseMan); // Samwell Tarly
 
 let userName = "Lysa Arryn";
-console.log(userName);
+console.log(userName); // Lysa Arryn
 
 let oddNumber = 57;
-console.log(oddNumber);
+console.log(oddNumber); // 57
 
 oddNumber = 61;
-console.log(oddNumber);
+console.log(oddNumber); // 61
 
 
 
@@ -80,7 +80,7 @@ let addedAmount = amount + 32;
 let multipleAmount = amount * 7;
 let devidedAmount = amount / 57;
 
-console.log(reducedAmount);
-console.log(addedAmount);
-console.log(multipleAmount);
-console.log(devidedAmount);
+console.log(reducedAmount);// 4256
+console.log(addedAmount); // 4312
+console.log(multipleAmount); // 29960
+console.log(devidedAmount); // 75.08771929824562
