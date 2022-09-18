@@ -20,8 +20,8 @@ console.log(user, userName);
 /* 2.
 Use `prompt` to take two numbers from user and store it in variable `numA` and `numB`. Create a third variable called `sum`, using `+` operator add numA and numB , store it in varible `sum` and using alert display `sum` in browser.
 */
-let numA = prompt("Enter a num 1");
-let numB = prompt("Enter a num 2");
+let numA = prompt("Enter a num First Number");
+let numB = prompt("Enter a num Second Number");
 let sum = numA + numB;
 alert(sum);
 
