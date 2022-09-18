@@ -22,7 +22,7 @@ for (let k = 1; k <= 10; k++) {
 
 }
 // Calculate the sum of all numbers from 1 to 10.
-let sum;
+let sum = 0;
 for (let a = 0; a <= 10; a++) {
     sum += a;
 
