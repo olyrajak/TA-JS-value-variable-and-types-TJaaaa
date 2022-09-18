@@ -15,8 +15,8 @@ if (number % 2 == 0) {
 }
 // 2. Write a program to accept two numbers from user using`prompt` and alert the max value.
 
-let number1 = Number(prompt("Enter a number1 ?"));
-let number2 = Number(prompt("Enter a number2 ?"));
+let number1 = Number(prompt("Enter a first number ?"));
+let number2 = Number(prompt("Enter a second number ?"));
 if (number1 > number2) {
     alert(`The ${number1} is greater`);
 
