@@ -192,8 +192,7 @@ if (product > 0) {
 // [Your code goes here]
 let number1 = +prompt("Enter  Number1");
 let number2 = +prompt("Enter  Number2");
-let operation = prompt(`What Mathemetical operation you want to perform? 
-                        add, sub, multiply or divide ?`);
+let operation = prompt(`What Mathemetical operation you want to perform? add, sub, multiply or divide ?`);
 
 // SWITCH STATEMENT
 
