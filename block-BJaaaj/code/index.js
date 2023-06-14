@@ -81,6 +81,7 @@ let multipleAmount = amount * 7;
 let devidedAmount = amount / 57;
 
 console.log(reducedAmount);// 4256
+
 console.log(addedAmount); // 4312
 console.log(multipleAmount); // 29960
 console.log(devidedAmount); // 75.08771929824562
